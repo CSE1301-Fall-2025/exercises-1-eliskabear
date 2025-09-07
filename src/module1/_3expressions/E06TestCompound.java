@@ -7,5 +7,6 @@ public class E06TestCompound {
 		System.out.println(2 + 3 * 2);
 		System.out.println((2 + 3) * 2);
 		System.out.println(2 + (3 * 2));
+		System.out.println(2.0*5.0);
 	}
 }
